@@ -1,0 +1,12 @@
+root: "alice"
+
+alice:
+        mnemonic: "candy eager deal flush pull elite job second art divorce task market cattle term write reform month sphere scissors fluid pumpkin feed issue abstract aunt"
+
+bob:
+        mnemonic: "learn cable switch safe increase maze garage museum royal nature dance pair uncle neither become practice bench ball giant curious fabric indicate token able release"
+
+charlie:
+        mnemonic: "reopen fatal crawl toddler video stay impulse drive disease horse cinnamon addict snap hedgehog need spread beach detect bike cloud laptop pony assault able regret"
+
+APP_ID: 44
